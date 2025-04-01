@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy [Tu Nombre] </h1>
+<h1 align="center">👋 ¡Hola! Soy Gastón Oviedo</h1>
 
 <p align="center">
   💻 <strong>Desarrollador Backend Junior</strong> | 📚 <strong>Estudiante de Ingenieria en sistemas</strong>
