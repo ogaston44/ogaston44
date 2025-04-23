@@ -29,8 +29,8 @@
 ---
 
 ### 📫 Contacto  
-📩 **Email:** [ogaston44@gmail.com]  
-🌐 **LinkedIn:** [https://www.linkedin.com/in/gaston-oviedo-389186229/)  
+📩 **Email:** ogaston44@gmail.com  
+🌐 **LinkedIn:** https://www.linkedin.com/in/gaston-oviedo-389186229/
 
 ---
 
